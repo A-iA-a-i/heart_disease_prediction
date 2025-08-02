@@ -70,15 +70,15 @@ heart_disease_prediction/
 
 ## 📈 Results
 
-**Decision Tree Classifier**
-- Train Accuracy: ~88%
-- Cross Validation Accuracy: ~89%
-- Test Accuracy: ~85%
-**KNeighbors Classifier**
-- Train Accuracy: ~87%
-- Cross Validation Accuracy: ~91%
-- Test Accuracy: ~88%
-**Support Vector Machine (SVM)**
-- Train Accuracy: ~87%
-- Cross Validation Accuracy: ~88%
-- Test Accuracy: ~88%
+1. **Decision Tree Classifier**
+    - Train Accuracy: ~88%
+    - Cross Validation Accuracy: ~89%
+    - Test Accuracy: ~85%
+2. **KNeighbors Classifier**
+    - Train Accuracy: ~87%
+    - Cross Validation Accuracy: ~91%
+    - Test Accuracy: ~88%
+3. **Support Vector Machine (SVM)**
+    - Train Accuracy: ~87%
+    - Cross Validation Accuracy: ~88%
+    - Test Accuracy: ~88%
