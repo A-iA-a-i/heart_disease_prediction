@@ -61,9 +61,9 @@ heart_disease_prediction/
 
 ## 🔧 Installation
 
-1.Clone the repo:
+1. Clone the repo:
     git clone https://github.com/A-iA-a-i/heart_disease_prediction.git cd heart_disease_prediction
-2.Install dependencies:
+2. Install dependencies:
     pip install -r requirements.txt
 
 ---
@@ -71,14 +71,14 @@ heart_disease_prediction/
 ## 📈 Results
 
 **Decision Tree Classifier**
-    - Train Accuracy: ~88%
-    - Cross Validation Accuracy: ~89%
-    - Test Accuracy: ~85%
+- Train Accuracy: ~88%
+- Cross Validation Accuracy: ~89%
+- Test Accuracy: ~85%
 **KNeighbors Classifier**
-    - Train Accuracy: ~87%
-    - Cross Validation Accuracy: ~91%
-    - Test Accuracy: ~88%
+- Train Accuracy: ~87%
+- Cross Validation Accuracy: ~91%
+- Test Accuracy: ~88%
 **Support Vector Machine (SVM)**
-    - Train Accuracy: ~87%
-    - Cross Validation Accuracy: ~88%
-    - Test Accuracy: ~88%
+- Train Accuracy: ~87%
+- Cross Validation Accuracy: ~88%
+- Test Accuracy: ~88%
